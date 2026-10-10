@@ -1,0 +1,9 @@
+{
+ "appId": "com.wadi.alhasad",
+ "appName": "وادي الحصاد",
+ "webDir": "www",
+ "backgroundColor": "#1f4d3a",
+ "android": {
+  "backgroundColor": "#1f4d3a"
+ }
+}
